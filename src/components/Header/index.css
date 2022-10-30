@@ -1,0 +1,14 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100vw;
+  height: 15vh;
+  background-color: #cbd5e1;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.logo {
+  width: 200px;
+}
